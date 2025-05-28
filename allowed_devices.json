@@ -1,5 +1,7 @@
 {
-  "allowed_ids": [
-    "a768c85352f1a2539dec422da2d42b8de12b7121526f3747615bf27257efbd8d"
-  ]
+    "allowed_devices": [
+        "a768c85352f1a2539dec422da2d42b8de12b7121526f3747615bf27257efbd8d",
+        "boshqa_device_id_2",
+        "boshqa_device_id_3"
+    ]
 }
